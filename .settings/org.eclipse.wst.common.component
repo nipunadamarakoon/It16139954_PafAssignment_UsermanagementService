@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="It16139954_PafAssignment_UsermanagementService">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Backend_Buyer/src/main/java"/>
+        <property name="context-root" value="It16139954_PafAssignment_UsermanagementService"/>
+        <property name="java-output-path" value="/It16139954_PafAssignment_UsermanagementService/Backend_Buyer/target/classes"/>
+    </wb-module>
+</project-modules>
